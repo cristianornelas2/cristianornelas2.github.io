@@ -1,10 +1,9 @@
 ---
-title: Folder
+title: Posts
 type: docs
-prev: docs/first-page
-next: docs/folder/leaf
+prev: /
 sidebar:
   open: true
 ---
 
-Pages can be organized into folders.
+Posts can be organized into folders.
