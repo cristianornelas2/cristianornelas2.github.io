@@ -1,6 +1,7 @@
 ---
 title: About
 type: about
+weight: 1
 sidebar:
   open: true
 ---

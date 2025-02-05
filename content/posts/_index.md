@@ -1,6 +1,7 @@
 ---
 title: Posts
 type: docs
+weight: 2
 sidebar:
   open: true
 ---

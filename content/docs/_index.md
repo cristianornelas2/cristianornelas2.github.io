@@ -1,6 +1,7 @@
 ---
 title: Documentation
 type: docs
+weight: 3
 next: first-page
 sidebar:
   open: true
