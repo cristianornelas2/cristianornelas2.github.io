@@ -44,8 +44,8 @@ menu:
     - name: "About"
       pageRef: "/about"
       weight: 2
-    - name: "Hugo Docs ↗"
-      url: "https://gohugo.io/documentation/"
+    - name: "Documentation"
+      url: "https://cristianornelas2.github.io/docs/"
       weight: 3
 
 params:
