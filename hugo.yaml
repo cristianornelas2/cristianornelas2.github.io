@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: My Site
+title: cristianornelas2
 
 # import hextra as module
 module:
@@ -36,16 +36,11 @@ menu:
       url: "https://github.com/cristianornelas2"
       params:
         icon: github
-    - name: Twitter
-      weight: 6
-      url: "https://twitter.com/"
-      params:
-        icon: x-twitter
 
 params:
   navbar:
     displayTitle: true
-    displayLogo: false
+    displayLogo: true
 
   footer:
     displayCopyright: false
