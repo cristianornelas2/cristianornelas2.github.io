@@ -18,14 +18,14 @@ markup:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
-      weight: 1
     - name: About
       pageRef: /about
-      weight: 2
+      weight: 1
     - name: Posts
       pageRef: /posts
+      weight: 2
+    - name: Docs
+      pageRef: /docs
       weight: 3
     - name: GitHub
       weight: 4
@@ -48,7 +48,7 @@ params:
   theme:
     defaut: dark
     displayToggle: false
-    
+
   navbar:
     displayTitle: true
     displayLogo: true
@@ -59,4 +59,4 @@ params:
 
   editURL:
     enable: true
-    base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+    base: "https://github.com/cristianornelas2/cristianornelas2.github.io/edit/main/content"
