@@ -18,40 +18,37 @@ markup:
 
 menu:
   main:
-    - name: GitHub
-      weight: 5
-      url: "https://github.com/cristianornelas2"
-      params:
-        icon: github
     - name: Docs
       pageRef: /docs
       weight: 1
     - name: About
       pageRef: /about
       weight: 2
-    - name: Contact
-      url: "https://github.com/cristianornelas2"
+    - name: Posts
+      pageRef: /posts
       weight: 3
-    - name: Search
+    - name: GitHub
       weight: 4
+      url: "https://github.com/cristianornelas2"
+      params:
+        icon: github
+    - name: Search
+      weight: 5
       params:
         type: search
   sidebar:
-    - name:
-      params:
-        type: separator
-      weight: 1
     - name: "About"
       pageRef: "/about"
+      weight: 1
+    - name: "Docs"
+      pageRef: "/docs"
       weight: 2
-    - name: "Documentation"
-      url: "https://cristianornelas2.github.io/docs/"
-      weight: 3
 
 params:
   theme:
     defaut: dark
     displayToggle: false
+    
   navbar:
     displayTitle: true
     displayLogo: true
