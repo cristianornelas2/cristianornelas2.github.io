@@ -49,6 +49,9 @@ menu:
       weight: 3
 
 params:
+  theme:
+    defaut: dark
+    displayToggle: false
   navbar:
     displayTitle: true
     displayLogo: true
