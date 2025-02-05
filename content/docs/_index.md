@@ -1,10 +1,8 @@
 ---
 title: Documentation
-type: docs
+casecade:
+  type: docs
 weight: 3
-next: first-page
-sidebar:
-  open: true
 ---
 
 This is a demo of the theme's documentation layout.

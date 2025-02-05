@@ -1,6 +1,7 @@
 ---
 title: Posts
-type: docs
+casecasde:
+  type: blog
 weight: 2
 sidebar:
   open: true
