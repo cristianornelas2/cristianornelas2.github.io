@@ -1,6 +1,6 @@
 ---
 title: My Landing Site
-toc: false
+toc: true
 sidebar:
   open: true
 ---
