@@ -1,6 +1,9 @@
 ---
 title: Documentation
+type: docs
 next: first-page
+sidebar:
+  open: true
 ---
 
 This is a demo of the theme's documentation layout.

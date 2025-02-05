@@ -1,7 +1,6 @@
 ---
 title: Posts
 type: docs
-prev: /
 sidebar:
   open: true
 ---

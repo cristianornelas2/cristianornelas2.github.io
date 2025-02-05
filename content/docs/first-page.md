@@ -1,8 +1,8 @@
 ---
-title: Testomg Page
+title: Demo Page
 type: docs
 prev: /
 ---
 
-A simple testing page.
+A simple demo page.
 
